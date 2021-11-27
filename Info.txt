@@ -1,0 +1,8 @@
+Dentro del documento se encuentra:
+
+-Caratula con datos
+-Link al archivo en drive
+-Principales funciones con su documentacion
+-El diagrama supuse que no tenia que hacerlo por que saque 4 y el punto 2
+tenia que hacerlo, ya que era en base al punto 2.b....
+ 
